@@ -19,3 +19,9 @@ Le projet utilise des technologies de base telles que React, CSS et JavaScript.
 1. Utilisation
 2. Ouvrez le dossier du projet dans votre éditeur de code
 3. Exécutez la commande 'pm install'pour installer les dépendances
+4. Exécutez la commande npm start pour lancer l'application
+5. Ouvrez votre navigateur et accédez à http://localhost:3000 pour voir la modal en action
+
+## Personnalisation
+
+Vous pouvez personnaliser l'apparence de la modal en modifiant les styles CSS dans le fichier Modal.css. Vous pouvez également personnaliser le contenu de la modal en modifiant le composant Modal dans le fichier Modal.jsx
